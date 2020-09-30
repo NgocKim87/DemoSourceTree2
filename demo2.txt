@@ -2,6 +2,8 @@ step 1: stage files which will be push to server
 step 2: commit these files
 step 3: click push-> push committed files
 
+step 4: cffkhkhk
+
 
 
 
